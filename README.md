@@ -1,4 +1,5 @@
-InterviewEdge AI – Smart Interview Simulator
+# InterviewEdge AI – Smart Interview Simulator
+
 InterviewEdge AI is a functional MVP designed to help job seekers practice for interviews using AI. The tool analyzes Job Descriptions to generate relevant questions and provides real-time feedback on user performance.
 
 ✨ Key Features
