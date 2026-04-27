@@ -12,3 +12,5 @@ InterviewEdge AI is a functional MVP designed to help job seekers practice for i
  * Frontend: React.js
  * AI Logic: Integrated LLM for question generation and feedback
  * Interface: SVG & CSS Animations
+
+Live Demo Link - https://codesandbox.io/p/sandbox/3s82lm
